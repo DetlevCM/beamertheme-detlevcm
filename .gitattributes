@@ -1,2 +1,5 @@
 ## Convert to Linux Line Endings
 text eol=lf
+
+.tex text
+.sty text
